@@ -74,14 +74,13 @@ passions:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahlesithole&theme=tokyonight" />
 </p>
 
----
 
 ## 📫 Let's Connect
 
 - 📧 Email: [masithole.simphiwe@gmail.com](mailto:masithole.simphiwe@gmail.com)  
 - 🔗 LinkedIn: [Bahle Sithole](https://www.linkedin.com/in/bahle-sithole-5ab679310)
 
----
+
 
 _“Learning never exhausts the mind.” – Leonardo da Vinci_
 
