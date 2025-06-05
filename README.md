@@ -40,7 +40,7 @@ I'm a **third-year Information Technology student** at **Belgium Campus iTversit
 
 ## 🚀 What Drives Me
 
-```yaml
+
 passions:
   - name: "Cybersecurity & Ethical Hacking"
     icon: "🛡️"
@@ -66,6 +66,7 @@ passions:
     icon: "🧩"
     description: "Bringing together diverse technologies into secure, scalable systems"
 
+---
 
 ## 📊 GitHub Stats
 
@@ -75,12 +76,14 @@ passions:
 </p>
 
 
+---
+
 ## 📫 Let's Connect
 
 - 📧 Email: [masithole.simphiwe@gmail.com](mailto:masithole.simphiwe@gmail.com)  
 - 🔗 LinkedIn: [Bahle Sithole](https://www.linkedin.com/in/bahle-sithole-5ab679310)
 
-
+---
 
 _“Learning never exhausts the mind.” – Leonardo da Vinci_
 
