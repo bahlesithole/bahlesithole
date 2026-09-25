@@ -43,26 +43,27 @@ I'm a **third-year Information Technology student** at **Belgium Campus iTversit
 
 passions:
 
-  - name: "Web Design & UX"
+  - "Web Design & UX"
     icon: "🎨"
     description: "Creating responsive and accessible interfaces with HTML, CSS, and JavaScript"
 
-  - name: "Database & Data Architecture"
+  - "Database & Data Architecture"
     icon: "🗄️"
     description: "Designing efficient relational and NoSQL database systems"
 
-  - name: "Systems Integration"
+  - "Systems Integration"
     icon: "🧩"
     description: "Bringing together diverse technologies into secure, scalable systems"
-  - name: "Cybersecurity & Ethical Hacking"
+    
+  - "Cybersecurity & Ethical Hacking"
     icon: "🛡️"
     description: "Protecting digital ecosystems through secure architecture and ethical practices"
 
-  - name: "Cloud Development"
+  - "Cloud Development"
     icon: "☁️"
     description: "Deploying scalable, resilient solutions using cloud-native tools"
 
-  - name: "AI & Data Science"
+  - "AI & Data Science"
     icon: "🧠"
     description: "Building intelligent systems using Python, R, and automation tools"
 
