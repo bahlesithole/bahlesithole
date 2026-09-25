@@ -19,11 +19,11 @@ I'm a **third-year Information Technology student** at **Belgium Campus iTversit
 
 ### 🎯 Current Focus Areas:
 
-- 🔐 **Cybersecurity** – Understanding threats, securing systems, and exploring ethical hacking  
-- ☁️ **Cloud Development** – Building scalable cloud-native apps and infrastructure  
 - 🌐 **Web Design** – Crafting responsive and user-friendly interfaces  
 - 🤖 **AI & Automation** – Exploring intelligent systems through Python and R  
-- 🛠 **Systems Development** – Designing full-stack solutions from database to UI  
+- 🛠 **Systems Development** – Designing full-stack solutions from database to UI 
+- 🔐 **Cybersecurity** – Understanding threats, securing systems, and exploring ethical hacking  
+- ☁️ **Cloud Development** – Building scalable cloud-native apps and infrastructure   
 
 <img align="right" src="b131434a-4895-4c01-a628-af2fb13d7442.jpg" alt="Bahle Profile Image" width="250"/>
 
@@ -42,17 +42,6 @@ I'm a **third-year Information Technology student** at **Belgium Campus iTversit
 
 
 passions:
-  - name: "Cybersecurity & Ethical Hacking"
-    icon: "🛡️"
-    description: "Protecting digital ecosystems through secure architecture and ethical practices"
-
-  - name: "Cloud Development"
-    icon: "☁️"
-    description: "Deploying scalable, resilient solutions using cloud-native tools"
-
-  - name: "AI & Data Science"
-    icon: "🧠"
-    description: "Building intelligent systems using Python, R, and automation tools"
 
   - name: "Web Design & UX"
     icon: "🎨"
@@ -65,6 +54,17 @@ passions:
   - name: "Systems Integration"
     icon: "🧩"
     description: "Bringing together diverse technologies into secure, scalable systems"
+  - name: "Cybersecurity & Ethical Hacking"
+    icon: "🛡️"
+    description: "Protecting digital ecosystems through secure architecture and ethical practices"
+
+  - name: "Cloud Development"
+    icon: "☁️"
+    description: "Deploying scalable, resilient solutions using cloud-native tools"
+
+  - name: "AI & Data Science"
+    icon: "🧠"
+    description: "Building intelligent systems using Python, R, and automation tools"
 
 ---
 
