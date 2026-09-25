@@ -2,8 +2,8 @@
 
 ### 💻 Third-Year IT Student at Belgium Campus iTversity
 
-🔐 I'm passionate about **Cybersecurity**, **Cloud Development**, **Web Design**, and **Artificial Intelligence**.  
-🧠 Constantly learning and exploring new technologies to solve real-world problems.
+Final-year IT student | Software Development | C#/.NET | JavaScript | React | SQL | Azure
+Building, breaking and rebuilding things to understand how they work.
 
 ---
 
